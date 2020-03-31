@@ -42,6 +42,7 @@ composer.phar
 *.php~
 .env
 .maintenance
+!/laradock/*
 
 ###> symfony/phpunit-bridge ###
 .phpunit
